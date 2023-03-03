@@ -81,17 +81,11 @@ ul {
   border-radius: 10px;
   background-color: #fff;
 }
-.welcomeTo .box {
-}
-.welcomeTo .box .item-right {
-}
-.welcomeTo .box .item-right img {
-}
-.welcomeTo .box .item-left {
-}
+
 .welcomeTo .box .item-left h1 {
   font-size: 2.2rem;
   margin-bottom: 25px;
+  max-width: 770px;
 }
 .welcomeTo .box .item-left p a {
   font-weight: 700;
@@ -100,10 +94,7 @@ ul {
 .welcomeTo .box .item-left p {
   margin-bottom: 30px;
 }
-.welcomeTo .box .item-left ul {
-}
-.welcomeTo .box .item-left ul li {
-}
+
 .welcomeTo .box .item-left ul li:first-child a {
   background-color: transparent;
   color: #202020;
@@ -128,8 +119,7 @@ ul {
 /* ----------------------------------------------
            Experience  start
 ---------------------------------------------- */
-.Experience {
-}
+
 .Experience .experienceTop {
   margin-bottom: 35px;
 }
@@ -137,8 +127,7 @@ ul {
   font-size: 28px;
   margin-bottom: 0;
 }
-.Experience .box {
-}
+
 .Experience .box .item {
   border: 2px solid #f2f2f2;
   height: 100%;
