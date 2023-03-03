@@ -1,0 +1,68 @@
+Good morning,
+
+Welcome to Adobe Experience Platform
+
+Data Collection!
+
+Data Collection provides a suite of technologies that allow you to collect event data from client-side
+sources and send it to the Adobe Experience Platform Edge Network where it can be enriched,
+transformed, and distributed to Adobe or non-Adobe destinations server-side in seconds! To access Data
+Collection features your org administrator may need to grant permissions in the Admin Console.
+
+Dismiss Learn More
+
+Experience League resources for you
+
+[J Documentation
+
+Data Collection Overview
+
+Adobe Experience Platform provides a suite of technologies that allow you
+to collect customer experience data from client-side sources, and send it to
+the Adobe Experience Platform Edge Network where it can be enriched,
+transformed, and distributed to Adobe or non-Adobe destinations in
+seconds.
+
+[J Tutorials
+
+How to Implement Mobile SDK
+
+Experience Platform Web SDK is a single client-side SDK
+that allows customers to collect and send mobile event
+data to other Adobe applications and 3rd party
+destinations through the Adobe Experience Platform
+Edge Network.
+
+[1 Tutorials
+
+How to Implement Web SDK
+
+Experience Platform Web SDK is a single client-side JavaScript library that
+allows customers to collect and send web event data to other Adobe
+applications and 3rd party destinations through the Adobe Experience
+Platform Edge Network.
+
+[mm] Documentation
+Event Forwarding Overview
+Event Forwarding allows customers to collect and send
+
+web and mobile event data server side to non-Adobe
+destinations including Google, Facebook, and more.
+
+[I Tutorials
+
+How to Implement Tags on Website
+
+The perfect starting point for front-end developers or technical marketers
+who want to learn how to implement the Adobe Experience Cloud solutions
+on their website.
+
+[3 Tutorials
+
+How to Enable Permissions for Data Collection
+Features
+
+In order to access data collection features your org
+administrator must enable permissions with the Admin
+Console. This guide shows you how to manage
+permissions for these data collection features.
